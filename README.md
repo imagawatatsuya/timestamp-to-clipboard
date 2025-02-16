@@ -1,4 +1,4 @@
-# CopyTimeToClipboard
+# Timestamp to Clipboard
 
 現在時刻を "yyyy/MM/dd(ddd) HH:mm:ss" (例: 2024/05/07(火) 14:30:00) の形式でクリップボードにコピーするスクリプト。Windows 環境 (PowerShell) 用。
 
