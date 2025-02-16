@@ -1,5 +1,7 @@
 # Timestamp to Clipboard
 
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 現在時刻を "yyyy/MM/dd(ddd) HH:mm:ss" (例: 2024/05/07(火) 14:30:00) の形式でクリップボードにコピーするスクリプト。Windows 環境 (PowerShell) 用。
 
 ## 概要
@@ -49,3 +51,10 @@
 ## ライセンス
 
 MIT License
+
+## 貢献
+Model:Gemini 2.0 Pro Experimental 02-05
+バグ報告、機能提案、プルリクエストなど、歓迎しません！ なぜなら、私はプログラミング知識が皆無であり、コード本体もReadMeテキストの約99％はチャットAIが作成したものだからです。対応致しかねます。
+
+## 作者
+[焚書刊行会 技術部](https://x.com/konatarochan)
